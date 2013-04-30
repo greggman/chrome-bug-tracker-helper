@@ -1,0 +1,12 @@
+.chrome-version {
+    background: #eee;
+    border: solid 1px #777;
+    padding: 2px 4px;
+}
+.chrome-version-popup {
+    position: absolute;
+    top: 2em;
+    left: 0;
+    background: #eee;
+    border: solid 1px #777;
+}
